@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0196b6e-0056-4c10-a69f-2ae32cde00b1" name="Changes" comment="" />
+    <list default="true" id="d0196b6e-0056-4c10-a69f-2ae32cde00b1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../host_info.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../host_info.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../host_usage.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../host_usage.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/psql_docker.sh" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/psql_docker.sh" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
