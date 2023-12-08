@@ -1,0 +1,94 @@
+# Preferred name (Characters only)
+ name: "Anum Shahwar"
+# Your GitHub repo root URL
+ github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_Anum
+
+"I am a recent Business Technology Management graduate from Toronto Metropolitan University with a minor in Finance. Throughout my undergraduate program, I gained hands on experience and refined my skills in key areas such as SQL, BPMN, UML, business, and system requirements. Using the experience and knowledge I gained, I contributed it towards a capstone project that I had completed with a client from CIBC. In addition, I completed a four-month internship as a Business Analyst at CIBC where I applied my analytical and problem-solving skills to support various product development and change management initiatives. I have a passion for business and systems analyst, and I am seeking opportunities for Business System Analyst roles."
+
+Soft Skills:
+    - Conflict Resolution
+    - Collaborative
+    - Strong Communication
+    - Workplace Adaptability
+    - Leadership
+    - Interpersonal Skills
+
+  Business Skills:
+    - JIRA
+    - Microsoft Office Products
+    - Visio
+    - Slack
+    - G Suite
+
+  Technical Skills:
+    - RDBMS/SQL
+    - Data Modeling/Mapping
+    - Data Analytics
+    - Sparx Enterprise Architecture
+    - GIT
+    - Linux
+    - PowerBi
+    - Tableau
+    - BPMN
+
+
+Jarvis_projects:
+  - name: "Linux Cluster Resource Monitoring App"
+    git_url: "/linux_sql"
+    description: "Jarvis has a Linux Cluster Administrative team (LCA). The LCA team needs to be able to get the hardware specifications so they can monitor each node. There were multiple technologies used to meet the project requirements such as PSQL, Docker, Git and Bash. This project consisted of a product for the LCA so that they can meet their business requirements. To ensure the LCA team was able to do this, the project was designed to collect the data into its RDBMS. This would help ensure that the LCA team will have access to the data and can use the data provided to create reports based on business needs."
+  - name: "Python Data Analytics"
+    git_url: "/python_data_anlytics"
+    # Focus on BSA work instead of development work
+    # e.g. solve business problem, requirement, data sources, analytics, stakeholders, documentation
+    description: ""
+  - name: "Hadoop"
+    git_url: "/hadoop"
+    description: ""
+
+Highlighted_projects:
+  - name: "Capstone Project"
+    description: "Worked in a team with a client to create a business process that would increase efficiency in the initiation phase of the project life cycle. Identified business requirements, KPIs, risks, deliverables, and created an approach plan. Created a Use Case, ERD, Class and Sequence Diagram, BPMN, Database Schema, Implementation, and deployment & risk management plan."
+
+  - name: "Cybersecurity Project"
+    description: "Incorporated the use of the Risk Management Framework (COBIT) into a simulated case study project. Included technology, operational procedures, and management practices needed for the successful implementation of cybersecurity for the case project."
+
+  - name: "Enterprise Architecture Design Project"
+    description: "Developed a design initiative encompassing business analysis, organizational processes, enterprise architecture, and security/risk management, incorporating Integrated Service Oriented Architecture (SOA) with business process logics."
+
+  - name: "Business Process Management Design Project"
+    description: "Model, analyze, and redesign business processes to meet target values of KPI (e.g., cycle time, cost). Also created business process documents."
+
+  - name: "IS Project Management Plan"
+    description: "Planned and administered IT-enabled process to improve projects. Applied IT project management methodologies including structured and agile approaches. Analyzed, predicted, and managed managerial issues arising from IT enabled projects. Created business cases, project plans, project charters, and scope documents with MS project."
+
+  - name: "SQL Project"
+    description: "Developing SQL views and queries to extract relevant data to meet business information requirements and in building ERD models that support relational database logical schema design."
+
+  - name: "IT Infrastructure Solutions Project"
+    description: "Analyzed a simulated case study of a business problem and demonstrated an in-depth understanding of core elements of an IT Infrastructure solution and remote network access. Designed a comprehensive IT infrastructure plan for a network based on standard technology components."
+
+  - name: "Systems Analysis and Design UML Project"
+    description: "Analyzed a simulated case study on a drug store and constructed Structural and Behavioral Analysis UML models to develop Use Case, Activity, System Sequence, Object Orientated, and Multi-layer Diagrams. Demonstrated the ability to design UML models by using analytical, problem-solving, and collaboration skills to improve the structure of the diagram".
+
+
+professional_experience:
+  #Write your Jarvis role as a professional experience rather than training.
+  - title: "Business Analyst Intern"
+    company: "CIBC"
+    duration: "May 2023 - Augusr 2023"
+    description: 
+
+Education:
+  - school_name: "Toronto Metropolitan University"
+    duration: "2019-2023"
+    degree: "Bachelor of Commerce"
+    department: "Business Technology Management"
+    awards_achievements:
+   - "Entrance Scholarship"
+
+
+ Title: "Certificates"
+  - Microsoft Certified: "Ai-900 and Az-900"
+  - Ted Rogers School of Management: "PowerBi, Tableau"
+  - IBM: "Cloud Core, Data Science Foundations, Data Science Methodologies and Hadoop Foundations"
+              
