@@ -198,4 +198,21 @@ HAVING SUM(slots) = (SELECT MAX(sum2.Total_slots) FROM
 		FROM cd.bookings
 		GROUP BY facid) AS sum2);
 ```
+#### Question 26: Output the names of all members, formatted as 'Surname, Firstname'.
 
+```sql
+SELECT CONCAT(surname, ', ', firstname) AS name FROM cd.members;
+```
+#### Question 27: Find all the telephone numbers that contain parentheses, returning the member ID and telephone number sorted by member ID.
+
+```sql
+SELECT memid, telephone FROM cd.members
+WHERE telephone LIKE '%(%' OR telephone LIKE '%)%'
+ORDER BY memid;
+```
+#### Question 28: Produce a count of how many members you have whose surname starts with each letter of the alphabet. Sort by the letter, and don't worry about printing out a letter if the count is 0.
+```sql
+SELECT SUBSTR(surname,1,1) AS Letter, Count(*) AS Count FROM cd.members
+GROUP BY letter
+ORDER BY letter ;
+```
