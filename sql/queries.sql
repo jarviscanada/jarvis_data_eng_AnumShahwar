@@ -67,7 +67,6 @@ CREATE TABLE cd.facilities
    SELECT facid, name, membercost, monthlymaintenance FROM cd.facilities
    WHERE membercost > 0 and membercost < monthlymaintenance /50 ;
 
-
    8.
    SELECT * FROM cd.facilities
    WHERE name LIKE '%Tennis%';
@@ -177,4 +176,3 @@ CREATE TABLE cd.facilities
    SELECT SUBSTR(surname,1,1) AS Letter, Count(*) AS Count FROM cd.members
    GROUP BY letter
    ORDER BY letter;
-   
