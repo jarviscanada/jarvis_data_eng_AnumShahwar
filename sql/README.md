@@ -3,7 +3,6 @@ The project is designed to pull out data based on what needs to be analyzed. Thi
 
 # ERD Diagram
 ![ERDtable](./assets/ERDtable.jpg)
-
 ## Table Set up DDL
 ```sql
 CREATE TABLE cd.members
