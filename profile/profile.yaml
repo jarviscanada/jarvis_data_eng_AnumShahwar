@@ -35,8 +35,12 @@ I am a recent Business Technology Management graduate from Toronto Metropolitan 
 
 # Jarvis_projects:
   - name: "Linux Cluster Resource Monitoring App"
-    git_url: "/linux_sql" 
+    git_url: "linux_sql"
     description: Jarvis has a Linux Cluster Administrative team (LCA). The LCA team needs to be able to get the hardware specifications so they can monitor each node. There were multiple technologies used to meet the project requirements such as PSQL, Docker, Git and Bash. This project consisted of a product for the LCA so that they can meet their business requirements. To ensure the LCA team was able to do this, the project was designed to collect the data into its RDBMS. This would help ensure that the LCA team will have access to the data and can use the data provided to create reports based on business needs.
+
+  - name: "RDBMS & SQL"
+    git_url: "sql"
+    description: The project is designed to pull out data based on what needs to be analyzed. This project consists of sample data from a country club that has three main tables. There are different queries performed to understand how the data can be leveraged to analyze the demand for their facilities along with their usage. 
 
 # Highlighted_projects:
     #project name
