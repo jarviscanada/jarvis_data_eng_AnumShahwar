@@ -21,7 +21,7 @@ Crontab -e
 To implement this project, there will be a minimal viable product created to ensure the LCA is able to use the product to meet business needs. This product will be implemented by using PSQL, Linux commands, docker and bash scripts. The bash scripts will hold two different functions such as hardware information and host usage information.
 
 # Architecture
-![my image](./assets/Architecture.jpg)
+![Architecture Image](../assets/Architecture.jpg)
 
 # Scripts
 
