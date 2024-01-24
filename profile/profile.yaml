@@ -42,6 +42,9 @@ jarvis_projects:
     git_url: "sql"
     description: The project is designed to pull out data based on what needs to be analyzed. This project consists of sample data from a country club that has three main tables. There are different queries performed to understand how the data can be leveraged to analyze the demand for their facilities along with their usage. 
 
+  - name: "BSA Fundamentals Project"
+    description: Demonstrated proficiency in eliciting requirements from stakeholders and developed foundational knowledge in key data concepts, including data mapping and data modeling. Additionally, crafted a Business Requirements Document for a Linux Cluster Resource Monitoring Application project and created a detailed Software Requirements Document for a full-stack application enabling brokers to execute stock trades on client accounts.
+
 highlighted_projects:
     #project name
   - name: "Capstone Project"   
@@ -51,7 +54,7 @@ highlighted_projects:
     description: Incorporated the use of the Risk Management Framework (COBIT) into a simulated case study project. Included technology, operational procedures, and management practices needed for the successful implementation of cybersecurity for the case project.
  
   - name: "Microsoft AI Works-Ready Skills: Financial Services Project"
-    description: Collaboratively, our team generated ideas on the implementation of AI by the financial services sector to advance customer experience or streamline operations. Proposed the idea of having a QnA bot particularly a CGI Chatbot will refer to trusted employee and a FAQ Answers implemented in the chatbox. There can be a financial literacy module onto the platform for people to complete and gain a deeper understanding. Lastly a Azure Form Recognizer can also be used to extract data and text to extrapolate characteristics  of investment. This will also help with learning what the buying patterns are and keep up with expense tracking.
+    description: Collaboratively, our team generated ideas on the implementation of AI by the financial services sector to advance customer experience or streamline operations. Proposed the idea of having a QnA bot, particularly a CGI Chatbot, that will refer to trusted employee and a FAQ Answers implemented in the chatbox. There can be a financial literacy module onto the platform for people to complete and gain a deeper understanding. Lastly a Azure Form Recognizer can also be used to extract data and text to extrapolate characteristics  of investment. This will also help with learning what the buying patterns are and keep up with expense tracking.
 
   - name: "Enterprise Architecture Design Project"
     description: Developed a design initiative encompassing business analysis, organizational processes, enterprise architecture, and security/risk management, incorporating Integrated Service Oriented Architecture (SOA) with business process logics.
