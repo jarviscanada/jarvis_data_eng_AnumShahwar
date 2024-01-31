@@ -42,8 +42,6 @@ jarvis_projects:
     git_url: "sql"
     description: The project is designed to pull out data based on what needs to be analyzed. This project consists of sample data from a country club that has three main tables. There are different queries performed to understand how the data can be leveraged to analyze the demand for their facilities along with their usage. 
 
-  - name: "BSA Fundamentals Project"
-    description: Demonstrated proficiency in eliciting requirements from stakeholders and developed foundational knowledge in key data concepts, including data mapping and data modeling. Additionally, crafted a Business Requirements Document for a Linux Cluster Resource Monitoring Application project and created a detailed Software Requirements Document for a full-stack application enabling brokers to execute stock trades on client accounts.
 
 highlighted_projects:
     #project name
