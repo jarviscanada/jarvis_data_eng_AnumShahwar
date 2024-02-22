@@ -46,6 +46,10 @@ jarvis_projects:
     git_url: "bsa"
     description: Produced a comprehensive business requirement document (BRD) for a Linux clustering monitoring application. Also, engaged in an elicitation process to collect requirements and specifications to create a detailed software requirement document (SRD) for a stock trading application. Additionally, developed necessary skills in SQL and Data Modeling.
 
+  - name: "Python Data Analytics"
+    git_url: "python_data_analytics"
+    description: This project is currently a work in progress
+
 highlighted_projects:
     #project name
   - name: "Capstone Project"   
