@@ -19,6 +19,8 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_Anum](http
 
 **BSA Fundamentals Project** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_Anum/tree/masterbsa)]: Produced a comprehensive business requirement document (BRD) for a Linux clustering monitoring application. Also, engaged in an elicitation process to collect requirements and specifications to create a detailed software requirement document (SRD) for a stock trading application. Additionally, developed necessary skills in SQL and Data Modeling.
 
+**Python Data Analytics** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_Anum/tree/masterpython_data_analytics)]: This project is currently a work in progress
+
 
 ## Highlighted Projects
 **Capstone Project**: Worked in a team with a client to create a business process that would increase efficiency in the initiation phase of the project life cycle. Identified business requirements, KPIs, risks, deliverables, and created an approach plan. Created a Use Case, ERD, Class and Sequence Diagram, BPMN, Database Schema, Implementation, and deployment & risk management plan.
