@@ -22,6 +22,7 @@ skills:
     - RDBMS/SQL/PostgreSQL
     - Data Modeling/Mapping
     - Data Analytics
+    - Jupyter Notebook
     - Sparx Enterprise Architecture
     - BPMN
     - UML
@@ -48,7 +49,8 @@ jarvis_projects:
 
   - name: "Python Data Analytics"
     git_url: "python_data_analytics"
-    description: This project is currently a work in progress
+    description: Delivering a proof of concept project with analytical results to help the LGS marketing team. Leveraged Python, Jupyter Notebook, Pandas Dataframe, and Numpy as primary tools for the project and addressed all business inquiries. | This project is currently a work in progress.
+
 
 highlighted_projects:
     #project name
